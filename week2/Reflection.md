@@ -1,5 +1,5 @@
 
-上一份作業的連結
+上一份作業的連結: [A4: 實作「Content-based Filtering」的推薦系統](https://lighthouse.alphacamp.co/courses/125/assignments/3733/submissions/179858?assignment_id=3733&batch_id=269&choice_cohort=all_cohort&course_id=125&from=other-submission&question_id=6428)
 
 ### 你認為你有達到這個專案的目的嗎？為什麼？
 本次作業的目地是學習從結構化和非結構化資料抽取出特徵向量，並使用 similarity_matrix 做出商品的分類，以分類做出推薦。
