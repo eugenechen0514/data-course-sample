@@ -1,4 +1,4 @@
-# 實作「Content-based」的推薦系統
+# 實作「Collaborative Filtering」的推薦系統
 
 # 目地
 這專案是截取 2014 年 Amazon 發布的「美妝（All Beauty）」資料集，包含了
